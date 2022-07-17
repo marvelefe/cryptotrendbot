@@ -1,11 +1,30 @@
- 
-![ts](https://badgen.net/badge/-/TypeScript/blue?icon=typescript&label) ![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge) ![license](https://img.shields.io/github/license/marvelefe/cryptotrendbot) 
+<div  id="top"></div> 
   
+  
+  
+
+<!-- PROJECT SHIELDS -->
+
+<!--
+
+*** I'm using markdown "reference style" links for readability.
+
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+
+*** See the bottom of this document for the declaration of the reference variables
+
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+
+--> 
+![ts](https://badgen.net/badge/-/TypeScript/blue?icon=typescript&label) ![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge) ![license](https://img.shields.io/github/license/marvelefe/cryptotrendbot) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 
 <!-- ABOUT THE PROJECT -->
 
-## Crypto Trend Bot
- 
+## Crypto Trend Bot 
+   
+  
 <p align="center">
   <img src="https://github.com/marvelefe/cryptotrendbot/blob/main/bot.png?raw=true" />
 </p> 
@@ -14,7 +33,14 @@
 A Twitter bot that tweets price alerts on the hottest coins every hour. 
 </p>  
   
-   
+
+  
+<p align="center"> 
+<a href="https://twitter.com/cryptotrendbot"> 
+  <img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=?style=for-the-badge&logo=twitter&label=Follow%20%40cryptotrendbot" height="50" />
+  </a> 
+</p>  
+
 
 <!-- CONTRIBUTING -->
 
@@ -39,9 +65,12 @@ Don't forget to give the project a star! Thanks again!
    
 
   
-   
+  
+  
 
-## Follow me on twitter
+  
+
+## Follow me on twitter ![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)
 
 Efe Omoregie - [@SirOmoregie](https://twitter.com/SirOmoregie) 
    
