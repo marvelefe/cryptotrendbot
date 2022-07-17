@@ -55,7 +55,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## Follow me on twitter  
 
-Efe Omoregie - [@SirOmoregie](https://twitter.com/SirOmoregie) 
+[@SirOmoregie](https://twitter.com/SirOmoregie) 
    
   
    
