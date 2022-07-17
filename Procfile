@@ -1,1 +1,1 @@
-worker:npm run start
+runner:npm run start
