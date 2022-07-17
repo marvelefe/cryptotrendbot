@@ -18,8 +18,10 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 
 --> 
-![ts](https://badgen.net/badge/-/TypeScript/blue?icon=typescript&label) ![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge) ![license](https://img.shields.io/github/license/marvelefe/cryptotrendbot) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
+![Statements](https://img.shields.io/badge/Test%20Coverage-93.33%25-brightgreen.svg?style=flat) ![ts](https://badgen.net/badge/-/TypeScript/blue?icon=typescript&label) ![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge) ![license](https://img.shields.io/github/license/marvelefe/cryptotrendbot) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 
+
+ 
 <!-- ABOUT THE PROJECT -->
 
 ## Crypto Trend Bot 
