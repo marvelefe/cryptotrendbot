@@ -11,10 +11,12 @@ const config: types.TwitterClientConfig = {
   accessTokenSecret: process.env.TWITTER_ACCESS_TOKEN_SECRET!,
 };
 const PORT : string|number = process.env.PORT || 3000;
+const msg = `bot listening @${PORT}`
 
 app.use("*", async (req, res) =>{
   console.log('...waking up'); 
   await new Bot(config).wakeUp();
+  res.send(msg);
 });
 
-app.listen(PORT,() => console.log(`bot listening @${PORT}`));
+app.listen(PORT,() => console.log(msg));
