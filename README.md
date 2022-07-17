@@ -19,7 +19,7 @@ A Twitter bot that tweets price alerts on the hottest coins every hour.
 
   
 <p align="center"> 
-<a href="https://twitter.com/cryptotrendbot"> 
+<a href="https://twitter.com/cryptotrendbot" target="_blank"> 
   <img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=?style=for-the-badge&logo=twitter&label=Follow%20%40cryptotrendbot" height="50" />
   </a> 
 </p>  
@@ -53,7 +53,7 @@ Don't forget to give the project a star! Thanks again!
 
   
 
-## Follow me on twitter ![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)
+## Follow me on twitter  
 
 Efe Omoregie - [@SirOmoregie](https://twitter.com/SirOmoregie) 
    
