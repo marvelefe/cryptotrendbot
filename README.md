@@ -1,23 +1,4 @@
-<div  id="top"></div> 
-  
-  
-  
-
-<!-- PROJECT SHIELDS -->
-
-<!--
-
-*** I'm using markdown "reference style" links for readability.
-
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-
-*** See the bottom of this document for the declaration of the reference variables
-
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
-
---> 
+ 
 ![Statements](https://img.shields.io/badge/Test%20Coverage-93.33%25-brightgreen.svg?style=flat) ![ts](https://badgen.net/badge/-/TypeScript/blue?icon=typescript&label) ![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge) ![license](https://img.shields.io/github/license/marvelefe/cryptotrendbot) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 
 
